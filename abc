@@ -1,0 +1,13 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://logodownload.org/wp-content/uploads/2016/03/Real-Madrid-logo-1.png" pltv-name="RAFAEL TESTE" pltv-description="LISTA DE CANAL" pltv-cover="https://s3.amazonaws.com/gumroad/files/69681cbdfc664ab19581255368220afc/original/1914665small.jpg" pltv-author="rafael soares" pltv-site="XXX  XXX" pltv-email="XXX XXX"
+
+
+#EXTINF:-1 Orange 2
+http://s001.thevid.net/v/60b473851d871ae320d3e964a6f4b24c.mp4?e=1539989388&sa=rV7Ll1ZRX7uwovjDTntZdg&st=697m4k-GHh_FI6XGNRhjLA
+
+#EXTINF:- Orange 3
+http://s001.thevid.net/v/60b473851d871ae320d3e964a6f4b24c.mp4?e=1539989388&sa=rV7Ll1ZRX7uwovjDTntZdg&st=697m4k-GHh_FI6XGNRhjLA
+
+#EXTINF:-1 Orange 4
+http://s007.thevid.net/v/e361e1fdd98a1142811514e2f2ca0837.mp4?e=1539989760&sa=JH0G8bI16UWIUEEdIwFArg&st=E7yQLHyJxIJ-L9ObTholTw
+
